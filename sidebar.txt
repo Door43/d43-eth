@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[eth:home|Door43 (eth)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-eth|d43-eth repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-eth/archive/master.zip|d43-eth.zip]]
+
+**Recent Changes**
+{{changes>ns = eth}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/eth|Ethnologue data]]
+
